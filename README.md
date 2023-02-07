@@ -1,1 +1,1 @@
-# Greendeck-hackathon
+# greendeck-hackthon
